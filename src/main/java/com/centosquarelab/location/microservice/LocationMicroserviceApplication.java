@@ -1,4 +1,4 @@
-package com.centosquarelab.location_microservice;
+package com.centosquarelab.location.microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

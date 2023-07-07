@@ -8,7 +8,7 @@
 		<version>3.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.centosquarelab.location_microservice</groupId>
+	<groupId>com.centosquarelab.location.microservice</groupId>
 	<artifactId>location_microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>location_microservice</name>
